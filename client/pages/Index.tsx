@@ -546,7 +546,7 @@ export default function Index() {
               <div className="space-y-2 text-sm text-gray-300">
                 <p>Nairobi, Kenya</p>
                 <p>+254 700 123 456</p>
-                <p>info@kenyabuild.co.ke</p>
+                <p>info@dmsconstruction.co.ke</p>
               </div>
             </div>
           </div>
