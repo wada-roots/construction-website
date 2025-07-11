@@ -492,7 +492,7 @@ export default function Index() {
                 <div>
                   <h3 className="text-lg font-bold">DMS CONSTRUCTION</h3>
                   <p className="text-xs text-gray-400">
-                    Excellence in Construction
+                    Building Excellence Together
                   </p>
                 </div>
               </div>
