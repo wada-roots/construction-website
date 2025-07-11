@@ -87,7 +87,7 @@ export default function Index() {
       name: "Sarah Wanjiku",
       role: "Homeowner, Nairobi",
       content:
-        "Kenya Build Pro transformed our dream home into reality. Their attention to detail and professionalism exceeded our expectations.",
+        "DMS CONSTRUCTION transformed our dream home into reality. Their attention to detail and professionalism exceeded our expectations.",
       rating: 5,
     },
     {
@@ -352,7 +352,7 @@ export default function Index() {
               viewport={{ once: true }}
             >
               <h2 className="text-3xl lg:text-4xl font-bold mb-6">
-                Why Choose Kenya Build Pro?
+                Why Choose DMS CONSTRUCTION?
               </h2>
               <p className="text-lg text-gray-300 mb-8">
                 With over 15 years of experience in the Kenyan construction
@@ -490,7 +490,7 @@ export default function Index() {
                   </div>
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold">Kenya Build Pro</h3>
+                  <h3 className="text-lg font-bold">DMS CONSTRUCTION</h3>
                   <p className="text-xs text-gray-400">
                     Excellence in Construction
                   </p>
@@ -552,7 +552,7 @@ export default function Index() {
           </div>
 
           <div className="border-t border-gray-600 mt-8 pt-8 text-center text-sm text-gray-400">
-            <p>&copy; 2024 Kenya Build Pro. All rights reserved.</p>
+            <p>&copy; 2024 DMS CONSTRUCTION. All rights reserved.</p>
           </div>
         </div>
       </footer>
