@@ -55,21 +55,24 @@ export default function Index() {
     {
       title: "Nairobi Residential Complex",
       category: "Residential",
-      image: "/placeholder.svg",
+      image:
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
       completion: "2023",
       description: "Modern 50-unit apartment complex in Westlands",
     },
     {
       title: "Mombasa Shopping Center",
       category: "Commercial",
-      image: "/placeholder.svg",
+      image:
+        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
       completion: "2023",
       description: "3-story retail and office complex",
     },
     {
       title: "Kisumu Highway Bridge",
       category: "Infrastructure",
-      image: "/placeholder.svg",
+      image:
+        "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop",
       completion: "2022",
       description: "200-meter concrete bridge construction",
     },
@@ -181,7 +184,7 @@ export default function Index() {
             >
               <div className="relative bg-gradient-to-br from-construction-orange/20 to-construction-blue/20 rounded-2xl p-8 backdrop-blur-sm border border-white/10">
                 <img
-                  src="/placeholder.svg"
+                  src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&h=600&fit=crop"
                   alt="Construction site"
                   className="w-full h-80 lg:h-96 object-cover rounded-lg"
                 />
