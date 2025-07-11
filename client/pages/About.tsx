@@ -8,7 +8,7 @@ export default function About() {
         <div className="container mx-auto px-4 py-16">
           <div className="text-center">
             <h1 className="text-4xl font-bold text-construction-brown mb-4">
-              About Kenya Build Pro
+              About DMS CONSTRUCTION
             </h1>
             <p className="text-lg text-muted-foreground mb-8">
               Building Kenya's future, one project at a time
