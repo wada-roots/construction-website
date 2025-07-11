@@ -31,7 +31,7 @@ const Navigation = () => {
             </div>
             <div className="flex items-center space-x-2">
               <Mail className="h-4 w-4" />
-              <span>info@kenyabuild.co.ke</span>
+              <span>info@dmsconstruction.co.ke</span>
             </div>
           </div>
           <div className="text-sm">
@@ -48,15 +48,15 @@ const Navigation = () => {
             <Link to="/" className="flex items-center space-x-3">
               <div className="bg-gradient-to-br from-construction-orange to-construction-orange-dark p-2 rounded-lg">
                 <div className="w-8 h-8 bg-white rounded text-construction-orange flex items-center justify-center font-bold text-lg">
-                  KB
+                  DMS
                 </div>
               </div>
               <div>
                 <h1 className="text-xl font-bold text-construction-brown">
-                  Kenya Build Pro
+                  DMS CONSTRUCTION
                 </h1>
                 <p className="text-xs text-muted-foreground -mt-1">
-                  Excellence in Construction
+                  Building Excellence Together
                 </p>
               </div>
             </Link>
@@ -142,7 +142,7 @@ const Navigation = () => {
                   </div>
                   <div className="flex items-center space-x-2 mb-4 text-sm text-muted-foreground">
                     <Mail className="h-4 w-4" />
-                    <span>info@kenyabuild.co.ke</span>
+                    <span>info@dmsconstruction.co.ke</span>
                   </div>
                   <Link
                     to="/contact"
