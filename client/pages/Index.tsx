@@ -486,7 +486,7 @@ export default function Index() {
               <div className="flex items-center space-x-3 mb-4">
                 <div className="bg-gradient-to-br from-construction-orange to-construction-orange-dark p-2 rounded-lg">
                   <div className="w-8 h-8 bg-white rounded text-construction-orange flex items-center justify-center font-bold text-lg">
-                    KB
+                    DMS
                   </div>
                 </div>
                 <div>
