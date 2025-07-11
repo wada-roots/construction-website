@@ -11,7 +11,7 @@ import {
   ArrowRight,
   Home,
   Building,
-  Road,
+  Construction,
   Droplets,
   Lightbulb,
   Settings,
@@ -52,11 +52,11 @@ export default function Services() {
         "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&h=600&fit=crop",
     },
     {
-      icon: Road,
+      icon: Construction,
       title: "Infrastructure & Civil Works",
-      description: "Roads, bridges, and public infrastructure projects",
+      description: "Constructions, bridges, and public infrastructure projects",
       features: [
-        "Road construction",
+        "Construction construction",
         "Bridge engineering",
         "Drainage systems",
         "Water treatment plants",
